@@ -4,7 +4,7 @@
 - 💞️ I have done different projects... I have pinned some of them below
 - 👨🏾‍💻 I have senior level experience on Django, Angular.JS, React.JS, Vue.js and other frameworks
 - 👨🏾‍💻 I am currently working on React.js and Laravel Projects.
-- 👁️ Check out my portfolio https://oaksas.github.io/Portfolio/
+- 👁️ Check out my portfolio [https://oaksas.github.io/Portfolio/](https://woldeamanual-getnet.netlify.app/)
 - 📫 How to reach me :
 
 LinkedIn --- www.linkedin.com/in/woldeamanual-getnet-48445119b
