@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Woldeamanual
-- 🌱 I’m currently learning software engineering at Addis Ababa univerisity
+- 🌱 Software Engineer
 - 👀 I’m interested in Full Stack application development
 - 💞️ I have done different projects... I have pinned some of them below
 - 👨🏾‍💻 I have senior level experience on Django, Angular.JS, React.JS, Vue.js and other frameworks
