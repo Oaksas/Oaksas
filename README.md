@@ -7,7 +7,7 @@
 - 👁️ Check out my portfolio [Portfolio](https://woldeamanual-getnet.tech)
 - 📫 How to reach me :
 
-LinkedIn --- www.linkedin.com/in/woldeamanual-getne
+LinkedIn --- www.linkedin.com/in/woldeamanual-getnet
 
 
 <!---
