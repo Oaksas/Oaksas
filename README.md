@@ -4,7 +4,7 @@
 - 💞️ Check out some of my public projects below...
 - 👨🏾‍💻 I have senior level experience on Django,Node.JS,Next.js, React.JS and other frameworks
 - 👨🏾‍💻 I am currently working on React.js, Node.js and Django DRF/Full Stack Projects.
-- 👁️ Check out my portfolio [Portfolio](https://woldeamanual-getnet.tech)
+- 👁️ Check out my portfolio [Portfolio](https://woldeamanual-getnet.me)
 - 📫 How to reach me :
 
 LinkedIn --- www.linkedin.com/in/woldeamanual-getnet
